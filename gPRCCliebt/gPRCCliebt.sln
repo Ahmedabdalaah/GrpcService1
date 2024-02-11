@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gPRCCliebt", "gPRCCliebt\gPRCCliebt.csproj", "{AC2E7612-838D-4148-AABE-46737EAFEFF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2E7612-838D-4148-AABE-46737EAFEFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2E7612-838D-4148-AABE-46737EAFEFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2E7612-838D-4148-AABE-46737EAFEFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2E7612-838D-4148-AABE-46737EAFEFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92ECF412-75D5-411E-BCE5-13387832A1F7}
+	EndGlobalSection
+EndGlobal
